@@ -1,0 +1,11 @@
+#ignore .log and .db
+*.log
+*.db
+
+#ignore all files in directory 
+target/
+bin/
+
+#ignore sistem 
+
+*.DS_Store
